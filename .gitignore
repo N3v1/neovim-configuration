@@ -1,0 +1,41 @@
+# Compiled Lua files
+*.luac
+
+# LuaRocks
+*.rock
+*.rockspec
+
+# LuaCov
+luacov.report.out
+luacov.stats.out
+
+# LuaDist
+dist/
+
+# LuaUnit
+luacov.report.out
+luacov.stats.out
+
+# LuaFormatter
+*.lua~
+
+# LuaCheck
+luacheckrc
+
+# LuaDoc
+doc/
+
+# LuaTest
+luatest/
+
+# LuaJIT
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# System Files
+.DS_Store
+*.DS_Store
